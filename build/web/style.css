@@ -1,0 +1,104 @@
+.header {background-color: #ACD1AF;
+         height: 100%;
+         padding: 20px;
+    }
+    body{
+
+    }
+ 
+    .monoError{
+        /*background-color: orangered;*/
+        margin-left: 6000px;
+    }
+    .shopingProduct{
+        margin-left: 60px;
+
+    }
+    
+    .emptyCart{
+        height: 41px;
+        width: 100px;
+        background-color: orangered;
+        border: solid black 1px;
+        text-align: center;
+        padding: 5px;
+        display: inline-block;
+        font-family: sans-serif;
+        border-radius: 5px;
+    }
+    .finalCheckout{
+        padding: 25px;
+        margin-top: 20px;
+    }
+.footer{
+    position: relative;
+    bottom: 0;
+  text-align: center;
+  background-color: #3A3B3C;
+  color: white;
+  height: 69px;
+  padding: 10px;
+  width: 100%;
+  margin-top: 100px;
+  
+}  
+
+.thanks{
+    text-align: center;
+}
+
+.finalPurchase{
+    margin-top: 100px;
+    text-align: center;
+}
+.logo {padding: 10px;
+        display: flex;
+        float: left;
+    }
+.titulo { padding: 10px;
+              text-align: center;
+              font: Monaco;
+              
+    }
+    
+.carrito {
+    text-align: center;
+    padding: 10px;
+        display: flex;
+        float: right;
+
+    }
+
+p    {color: white;}
+
+.tablote{
+    border-radius: 5px;
+    padding: 22px;
+    width: 100%;  
+    border-collapse: collapse; 
+  
+    
+    
+}
+.table{
+    margin: 20px;
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 30px;
+    float:left;
+    width: 26%;  
+    border-collapse: collapse; 
+  
+}
+
+.table:hover{
+    background-color: #ACD1AF;
+
+}
+
+
+#finalPurchase{
+    color: black;
+text-transform: uppercase;
+
+}

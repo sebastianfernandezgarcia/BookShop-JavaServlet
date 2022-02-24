@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/web/Header.jsp</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/web/commanderror.jsp</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/web/index.jsp</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/src/java/model/BookJSONReader.java</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/src/java/control/FrontServlet.java</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/web/successfulpurchaseview.jsp</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/web/purchaseview.jsp</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/src/java/control/FrontCommand.java</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/src/java/control/PerformPurchaseCommand.java</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/src/java/control/RemoveFromCartCommand.java</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/web/Footer.jsp</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/web/style.css</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/src/java/control/UnknownCommand.java</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/src/java/control/AddToCartCommand.java</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/src/java/control/EmptyCartCommand.java</file>
+            <file>file:/C:/Users/Sebastián%20Fernández/OneDrive%20-%20Universidad%20de%20Las%20Palmas%20de%20Gran%20Canaria/Informatica_2021_2022/IS2/BookShop/web/shoppingcartview.jsp</file>
+        </group>
+    </open-files>
+</project-private>
