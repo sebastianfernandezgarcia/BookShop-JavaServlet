@@ -9,3 +9,5 @@ BookShop "web" implementing Java Servlets, HTML, JSP and CSS + JSON READER
            <%! 
             Catalogue catalogue = new Catalogue("C:/Users/Sebastián Fernández/OneDrive - Universidad de Las Palmas de Gran Canaria/Informatica_2021_2022/Segundo Cuatrimestre/PS/Practicas/TiendaDeLibrosOtros/OnlineStore/OnlineStore/books_ulr.json");
         %>
+
+![DiagramClass-Book-Shop](https://user-images.githubusercontent.com/79119404/155532881-64e450f6-fcf0-483e-a3ab-5e80df80ddad.png)
